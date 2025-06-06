@@ -1,10 +1,8 @@
 # Rapport
 
-todo lucas
-
 ## Introduction
 
-todo
+Ce rapport présente les résultats que nous avons obtenus durant l'analyse du dataset de cardiotocographie dans le contexte de la santé des foetus.
 
 ## Résumé des résultats
 todo
